@@ -10,4 +10,4 @@
 
 ## About Surge
 
-A modular Bitcoin Rollup-as-a-Service with a Decentralised verifier network & MPC-TSS Bridge
+The Ultimate MetaLayer to Scale Bitcoin
