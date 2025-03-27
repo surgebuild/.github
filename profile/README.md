@@ -8,6 +8,6 @@
 
 ## About Surge
 
-The Ultimate MetaLayer to Scale Bitcoin
+Bitcoin Native dApp Layer
 
-[X](https://x.com/surgebuild) | [Discord](https://discord.gg/surgebuild)
+[X](https://x.com/surgebuild) | [Discord](https://discord.gg/surgebuild) | [Webiste](https://surge.build)
