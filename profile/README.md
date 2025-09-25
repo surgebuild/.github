@@ -8,6 +8,6 @@
 
 ## About Surge
 
-Bitcoin Native dApp Layer
+Bitcoin-backed Lending platform purpose-built for everyday bitcoiners. Powered by dVaults, programmable & decentralized vaults (tapscript + lin22 tss ). 
 
 [X](https://x.com/surgebuild) | [Discord](https://discord.gg/surgebuild) | [Webiste](https://surge.build)
